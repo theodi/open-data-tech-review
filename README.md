@@ -2,12 +2,17 @@
 
 There are a range of technologies that address different problems with creating, publishing and using open data. The aim of this project is to pull together information about these technologies, their advantages and disadvantages, to enable those who are performing these tasks to choose an appropriate technology.
 
-This repository contains pages that form a review of open data technologies. Reviews should all follow the same template (see template.md within each directory). This page should provide links to the reviews (on github); it's possible for a single tool/format to fall under more than one heading.
+This repository contains pages that form a review of open data technologies. Reviews should all follow the same template (see template.md within each directory) to aid comparison. This page should provide links to the reviews (on github); it's possible for a single tool/format to fall under more than one heading.
 
 ## Cleaning / Transformation Tools
 
   * Google Refine
   * Tableau
+  * ...
+
+### Scraping Tools
+
+  * ScraperWiki
   * ...
 
 ### Excel Data Extraction Tools
